@@ -25,43 +25,50 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
-![image](https://github.com/user-attachments/assets/8b1163f5-4886-4fed-b1ef-1420c1284a63)
+![image](https://github.com/user-attachments/assets/e947091b-0ca1-4223-a81b-79bed178f798)
+
+
 sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
 
 It displays the following menu and select 2 for Website Attack Vectors:
-![image](https://github.com/user-attachments/assets/951d4ecd-9b56-451f-bee9-034a13fd8c7d)
+![WhatsApp Image 2024-11-01 at 21 25 51_3d06b3b6](https://github.com/user-attachments/assets/5ec3ea80-a2b0-43bf-932d-61a1868be299)
 
 The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
 
-![image](https://github.com/user-attachments/assets/d9ddb284-4273-480e-acd5-9f0db1721f68)
+![image](https://github.com/user-attachments/assets/db748449-152f-4541-b0ba-df66a2500e4d)
+
 
 The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
 
-![image](https://github.com/user-attachments/assets/ed938469-4bf1-4b7c-92a9-a174b2d13812)
+![image](https://github.com/user-attachments/assets/aa0588fe-8745-4571-b381-28f1ec95a87e)
+
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 
-![image](https://github.com/user-attachments/assets/daba866a-e2dc-40d4-a2db-d5761b6dd7aa)
+![image](https://github.com/user-attachments/assets/9e8f2b36-27ea-4611-928a-db45b1104338)
 
 It shows the following screen in which the option Google can be selected:
 
-![image](https://github.com/user-attachments/assets/f9dfa4c7-41b4-408f-80a8-a721e3eb44c0)
+![image](https://github.com/user-attachments/assets/ac2c3291-2a88-4943-91f2-5216ab9661de)
+
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
 
-![image](https://github.com/user-attachments/assets/e6030ecb-cc39-4b45-b2fd-d2d2b1f62de5)
+![WhatsApp Image 2024-11-01 at 21 33 46_14b747de](https://github.com/user-attachments/assets/88afe2e6-66dd-4060-8c29-4d8b946ad21c)
+
 
 In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
 
-![image](https://github.com/user-attachments/assets/c63824c8-d884-4fe5-802a-b0d772e063ac)
+![WhatsApp Image 2024-11-01 at 21 50 40_67b13330](https://github.com/user-attachments/assets/ec5328e8-6166-438b-8c20-2fb269c798b7)
 
 SET logs the information regarding the Google credentials:
 
-![image](https://github.com/user-attachments/assets/6bc122bd-7651-437a-be18-a06b790eb797)
+![WhatsApp Image 2024-11-01 at 21 54 08_138956ac](https://github.com/user-attachments/assets/e2338264-b947-464b-9d54-9adcb144db67)
+
 
 SET logs the information in the xml file under /root/.set directory:
 
-![image](https://github.com/user-attachments/assets/eb860581-4b9f-4923-b762-13423fb56ee0)
+![WhatsApp Image 2024-11-01 at 22 10 13_147be901](https://github.com/user-attachments/assets/6d6ff854-8b47-470a-9f4d-462729911b50)
 
 
 ## RESULT:
